@@ -1,7 +1,7 @@
 using System;
 using System.Threading.Tasks;
-using NServiceBus;
-using NServiceBus.Logging;
+using NServiceBus_6;
+using NServiceBus_6.Logging;
 
 class Program
 {
